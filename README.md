@@ -23,6 +23,11 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=jaydeep-godhani&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  
+</div>
+
+
+<div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-godhani&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
   
@@ -32,10 +37,14 @@
 
   <img src="https://streak-stats.demolab.com?user=jaydeep-godhani&theme=radical&hide_border=true" height="160" alt="GitHub Streak" />
   
+</div>
+
+
+<div align="center">
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydeep-godhani&theme=radical&hide_border=true&area=true" height="200" alt="Contribution Graph" />
   
 </div>
-
 <div align="center">
   
   <img src="https://komarev.com/ghpvc/?username=jaydeep-godhani&style=for-the-badge&color=ff6f61" alt="Profile Views" />
